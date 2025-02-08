@@ -14,4 +14,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Atharvugale95/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Atharvugale95/leetcode/tree/master/0595-big-countries) |
 | [1179-game-play-analysis-i](https://github.com/Atharvugale95/leetcode/tree/master/1179-game-play-analysis-i) |
+| [2110-employees-with-missing-information](https://github.com/Atharvugale95/leetcode/tree/master/2110-employees-with-missing-information) |
 <!---LeetCode Topics End-->
