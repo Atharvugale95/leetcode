@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Atharvugale95/leetcode/tree/master/0619-biggest-single-number) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Atharvugale95/leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/Atharvugale95/leetcode/tree/master/1153-product-sales-analysis-i) |
+| [1174-sales-analysis-iii](https://github.com/Atharvugale95/leetcode/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/Atharvugale95/leetcode/tree/master/1179-game-play-analysis-i) |
 | [2110-employees-with-missing-information](https://github.com/Atharvugale95/leetcode/tree/master/2110-employees-with-missing-information) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Atharvugale95/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
