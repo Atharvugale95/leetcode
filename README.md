@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/Atharvugale95/leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Atharvugale95/leetcode/tree/master/1390-average-selling-price) |
 | [1827-invalid-tweets](https://github.com/Atharvugale95/leetcode/tree/master/1827-invalid-tweets) |
+| [1837-daily-leads-and-partners](https://github.com/Atharvugale95/leetcode/tree/master/1837-daily-leads-and-partners) |
 | [2110-employees-with-missing-information](https://github.com/Atharvugale95/leetcode/tree/master/2110-employees-with-missing-information) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Atharvugale95/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
